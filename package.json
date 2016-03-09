@@ -1,0 +1,30 @@
+{
+  "name": "hinda",
+  "version": "0.0.1",
+  "description": "Hinda Web Project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Purna Annapureddy",
+  "devDependencies": {
+    "angular": "^1.4.7",
+    "angular-animate": "^1.4.8",
+    "angular-base64": "^2.0.5",
+    "angular-carousel": "^1.0.1",
+    "angular-cookies": "^1.4.8",
+    "angular-local-storage": "^0.2.2",
+    "angular-mocks": "^1.4.7",
+    "angular-sanitize": "^1.4.8",
+    "angular-scroll": "^0.7.3",
+    "angular-touch": "^1.4.8",
+    "angular-ui-bootstrap": "^0.14.3",
+    "angular-ui-router": "^0.2.15",
+    "angularjs-slider": "^2.4.0",
+    "angulartics": "^1.0.0",
+    "bootstrap-sass": "^3.3.5",
+    "font-awesome": "^4.5.0",
+    "jquery": "^2.1.4"
+  }
+}
