@@ -1,0 +1,20 @@
+<div class="product-content">
+
+    <!--<div class="icon-right" >
+        <a href="" class="wishlist-icons" ng-click="wishListAction(product)">
+            <i class="fa fa-star-o tertiary-text-color" ng-if="!product.isInWishList"></i>
+            <i class="fa fa-star tertiary-text-color" ng-if="product.isInWishList"></i>
+        </a>
+    </div>-->
+    <a href="" ui-sref="openProduct(product)">
+    <div>        
+            <img ng-src="{{product.image}}" class="product-image" />
+    </div>
+    <div class="product-title">
+        {{product.title}}
+    </div>
+    </a>
+    <div class="product-points">
+        {{product.points | number }} points
+    </div>
+</div>

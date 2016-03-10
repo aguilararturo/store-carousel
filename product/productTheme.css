@@ -1,0 +1,28 @@
+.product-content{
+  width: 150px;
+  height: 150px;
+  background-color: rgb(6, 251, 222);
+  margin:5px ;
+  text-align:center
+}
+.product-content  .product-image{
+    width: auto;
+    height: 100px;
+    padding: 5px;
+  }
+
+.product-content  .product-title {
+    color: $light-gray-text-color;
+    font-size: 13px;
+    font-weight: $semi-bold-font-weight;
+  }
+.product-content  .product-points {
+    color: rgb(255, 61, 0);
+    font-size: 13px;
+    font-weight: $bold-font-weight;
+  }
+.repeat{
+  width: auto;
+  height: auto;
+  display: inline-block;
+}
