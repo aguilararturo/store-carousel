@@ -1,0 +1,52 @@
+As a scorecard rewards user, I want to be able to view individual stores on the merchandise home page so that I can shop products relevant to me.
+UI Components
+See attached comps
+Pre-Conditions
+The user has successfully logged in.
+Assumptions
+Store display is dependent on user permissions.
+Store display can include one to three stores within the merchandise home page depending on API results returned. ��
+Stores should alternate left to right as reflected in the comp.
+Acceptance Criteria
+UI Scenario (not in BDD format...only purpose is to build out webpage without any logic)
+Create Store(s) section for��hinda_merchant_landing.
+Store(s) section includes:[Name of Store/Brand] 
+Store title
+Shop Now link
+Store image
+Product Carousel below Store
+Desktop Scenarios
+Given user has successfully logged in
+And user has permission to view Store(s)
+When user navigates to Merchandise Home page
+Then call API
+And display Store returned results
+And display product carousel for each store
+Given user has permissions to view Store(s)
+When user clicks Shop Now in given Store section
+Or user clicks large static image in Store section (not images in carousel)
+Then navigate user to Merchandise Category page
+And display filtered store results
+Tablet Scenarios
+Given user has successfully logged in
+And user has permission to view Store(s)
+When user navigates to Merchandise Home page
+Then call API
+And display Store returned results
+And display product carousel for each store
+Given user has permissions to view Store(s)
+When user taps Shop Now in given Store section
+Or user taps large static image in Store section (not images in carousel)
+Then navigate user to Merchandise Category page
+And display filtered store results
+Product Carousel Scenarios
+Given user is on Merchandise Home page
+And user has permission to view Store(s)
+And product carousel is being displayed
+When user clicks or taps a product from carousel
+Then navigate user to Product Detail page
+Given user is on Merchandise Home page
+And user has permission to view Store(s)
+And product carousel is being displayed
+When user clicks or taps carousel arrow
+Then display next listing of products in carousel

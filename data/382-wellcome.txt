@@ -1,0 +1,30 @@
+As a scorecard rewards user, I want to be greeted with a Welcome message once I login.
+UI Components
+See attached comps
+Pre-Conditions
+The user has successfully logged in.
+Assumptions
+API will handle 'Shop This Story' logic similar to other promotions.
+Home Page is user permission based. ��Welcome section may be only section displayed on page (see hinda_merchant_landing_hero_only��comp)
+Acceptance Criteria
+UI Scenario (not in BDD format...only purpose is to build out webpage without any logic)
+Create Welcome section for hinda_merchant_landing.
+Welcome section includes:Welcome TextBackground ImageShop
+This Story link
+Desktop Scenarios
+Given user has logged in successfully
+When user is navigated to Merchandise Home page
+Then display Welcome section
+Given user is on Merchandise Home page
+When user clicks Shop 
+This Story in Welcome section
+Then navigate user to Merchandise Category page
+And display filtered results for story
+Tablet Scenarios
+Given user has logged in successfully
+When user is navigated to Merchandise Home page
+Then display Welcome section
+Given user is on Merchandise Home page
+When user taps Shop
+This Story in Welcome section
+Then navigate user to Merchandise Category pageAnd display filtered results for story

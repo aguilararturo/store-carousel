@@ -1,0 +1,379 @@
+{
+  "success": true,
+  "data": {
+    "items": [
+      {
+        "id": 0,
+        "name": "",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=0"
+          }
+        ]
+      },
+      {
+        "id": 2533,
+        "name": "Activision®",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=2533"
+          }
+        ]
+      },
+      {
+        "id": 4142,
+        "name": "ACU-RITE®",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=4142"
+          }
+        ]
+      },
+      {
+        "id": 1057,
+        "name": "adidas®",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=1057"
+          }
+        ]
+      },
+      {
+        "id": 3998,
+        "name": "Affinity Business Accessories, LLC",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=3998"
+          }
+        ]
+      },
+      {
+        "id": 1559,
+        "name": "Alex®",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=1559"
+          }
+        ]
+      },
+      {
+        "id": 4424,
+        "name": "Alexander Kalifano®",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=4424"
+          }
+        ]
+      },
+      {
+        "id": 2871,
+        "name": "Algoma",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=2871"
+          }
+        ]
+      },
+      {
+        "id": 760,
+        "name": "All-Clad®",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/AllClad_760.gif",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=760"
+          }
+        ]
+      },
+      {
+        "id": 286,
+        "name": "Allied™",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=286"
+          }
+        ]
+      },
+      {
+        "id": 1381,
+        "name": "Altec Lansing®",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=1381"
+          }
+        ]
+      },
+      {
+        "id": 4584,
+        "name": "Amazon",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=4584"
+          }
+        ]
+      },
+      {
+        "id": 1376,
+        "name": "American Tourister®",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=1376"
+          }
+        ]
+      },
+      {
+        "id": 2700,
+        "name": "Anchor Bay Entertainment",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=2700"
+          }
+        ]
+      },
+      {
+        "id": 3728,
+        "name": "Anchor Hocking",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=3728"
+          }
+        ]
+      },
+      {
+        "id": 4025,
+        "name": "Anne Klein",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=4025"
+          }
+        ]
+      },
+      {
+        "id": 2877,
+        "name": "Antwerp Diamonds (USA)™",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=2877"
+          }
+        ]
+      },
+      {
+        "id": 4346,
+        "name": "Antwerp Silver",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=4346"
+          }
+        ]
+      },
+      {
+        "id": 1689,
+        "name": "Apple®",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/Apple_1689.gif",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=1689"
+          }
+        ]
+      },
+      {
+        "id": 4572,
+        "name": "Ariston",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=4572"
+          }
+        ]
+      },
+      {
+        "id": 2879,
+        "name": "Armitron®",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=2879"
+          }
+        ]
+      },
+      {
+        "id": 3978,
+        "name": "Aspen Pet",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=3978"
+          }
+        ]
+      },
+      {
+        "id": 3929,
+        "name": "Babycakes",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=3929"
+          }
+        ]
+      },
+      {
+        "id": 2773,
+        "name": "Bell & Howell®",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=2773"
+          }
+        ]
+      },
+      {
+        "id": 2890,
+        "name": "Bell'O",
+        "image": "https://scorecardrewards-qa.hinda.com/cdn/images/Release/BrandImages/",
+        "_links": [
+          {
+            "rel": "products",
+            "method": {
+              "method": "GET"
+            },
+            "href": "https://i3services-qa.hinda.com/catalog/products?brandId=2890"
+          }
+        ]
+      }
+    ],
+    "offset": 0,
+    "limit": 25,
+    "totalCount": 344,
+    "sortType": null,
+    "sortDirection": null,
+    "_links": [
+      {
+        "rel": "self",
+        "method": {
+          "method": "GET"
+        },
+        "href": "https://i3services-qa.hinda.com/catalog/brands?featured=False&offset=0&limit=25"
+      },
+      {
+        "rel": "next",
+        "method": {
+          "method": "GET"
+        },
+        "href": "https://i3services-qa.hinda.com/catalog/brands?featured=False&offset=25&limit=25"
+      }
+    ]
+  },
+  "error": null
+}
