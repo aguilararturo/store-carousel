@@ -1,0 +1,4 @@
+https://i3services-qa.hinda.com/swagger/ui/index.html#/
+https://i3services-uat.hinda.com/swagger/ui/index.html
+https://scorecardrewards-uat.hinda.com/#/login
+https://scorecardrewards-qa.hinda.com/#/login

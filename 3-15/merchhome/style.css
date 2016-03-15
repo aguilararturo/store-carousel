@@ -1,0 +1,140 @@
+.welcome-content
+{
+  width: 1300px;
+  height: 380px;
+  background-color: #2d2c41;
+}
+.welcome-title
+{
+  /* Text style for "Dynamic Welcom" */
+  width: 463px;
+  height: 22px;
+  text-shadow: 0 -1px 2px rgba(0, 0, 0, 0.35);
+  color: #2d2c41;
+  font-family: Lato;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 30px;
+  text-transform: uppercase;
+}
+.welcome-description
+{
+  width: 496px;
+  height: 46px;
+  text-shadow: 0 -1px 2px rgba(0, 0, 0, 0.35);
+  color: #2d2c41;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 30px;
+}
+.merch-shop-link
+{
+  color: #29a9a3;
+  font-size: 13px;
+  font-family: Lato;
+  font-weight: bold;;
+  text-transform: uppercase;
+  font-family: FontAwesome;
+  text-align: center;
+
+  padding-top: 2%;
+  padding-bottom:2%;
+  font-weight: 900;
+   text-decoration:none;
+}
+
+.store-content
+{
+  /* Style for "coach placehol" */
+  width: 650px;
+  height: 397px;
+  background-color: #f5f937;
+}
+
+.store-content-static
+{
+  background-color: rgb(244, 217, 243)
+}
+
+.store-title
+{
+  /* Text style for "Welcome to you" */
+  color: #2d2c41;
+  font-family: Lato;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 2%;
+  font-weight: 300;
+}
+
+.store-welcome
+{
+  padding-top: 7%;
+  color: #2d2c41;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight:bold;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 900;
+}
+[store-align~="left"] {
+  float: left;
+}
+[store-align~="right"] {
+  float: right;
+}
+
+.store-carousel
+{
+  height: 200px;
+  width: 100%;
+  display: inline-block;
+  background-color: rgb(22, 230, 73);
+}
+
+.product-content
+{
+  width: 150px;
+  height: 200px;
+
+  margin: 2px;
+  float: left;
+  background-color: rgb(236, 249, 251);
+}
+
+.product-image
+{
+  width: 140px;
+  height: 140px;
+}
+
+.product-image img
+{
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  object-fit: contain;
+}
+
+.product-name
+{
+font-family: Lato;
+font-size: 14px;
+
+color: #2d2c41;
+font-weight: 300;
+text-align: center;
+}
+
+.product-points
+{
+font-family: Lato;
+font-size: 14px;
+
+color: #3c4074;
+font-weight: 700;
+text-align: center;
+padding-top: 1%;
+}
